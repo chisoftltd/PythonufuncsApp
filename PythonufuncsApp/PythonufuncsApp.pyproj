@@ -24,6 +24,9 @@
     <Compile Include="How To Create Your Own ufunc.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="NumPy Logs.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Simple Arithmetic.py">
       <SubType>Code</SubType>
     </Compile>
